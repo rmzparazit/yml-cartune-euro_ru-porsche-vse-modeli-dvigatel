@@ -1,0 +1,1722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:22">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатель Porsche</category>
+    </categories>
+    <offers>
+      <offer id="213253526217415533958222188241874691787" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Оригинальный контрактный двигатель M5501 для Porsche Cayenne 957 с пробегом 98 260 км. Проверен на работоспособность, предоставляется аукционный лист и полный пакет документов</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="328141631230604552627289425619348928984" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Двигатель в сборе, возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="121745715483859177844552457889231678792" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Контрактный двигатель с подтверждённым пробегом из Японии. В комплекте документы для постановки на учёт</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="149781449702823638557724239284309107162" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Двигатель M5501 для Porsche Cayenne 957, год 2008. Возможна проверка эндоскопом по запросу</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="210474132629128029831723796796255021927" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Оригинальный двигатель с номером 95510095501. Полный пакет документов: ГТД, договор купли-продажи</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="306353363296935060401578245857555827716" available="true" type="vendor.model">
+        <name>Двигатель Porsche Cayenne 2008 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Cayenne 2008</model>
+        <description>Контрактный двигатель в наличии на складе в Москве. Цена указана за двигатель в сборе как на фото</description>
+        <sales_notes>Пробег 98 260 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">957</param>
+        <param name="Двигатель">5501</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">95510095501</param>
+      </offer>
+      <offer id="121734162249968850310625566019426387708" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Оригинальный контрактный двигатель M96.20 с пробегом 102593 км. Проверен на работоспособность, предоставляется аукционный лист. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="113630130623942969686448971728758827277" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Двигатель в сборе M96.20 от Porsche Boxster 1997 года. Пробег 102593 км, подтвержденный аукционным листом. Есть возможность проверки эндоскопом по запросу</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="10800301826573935517036480342857322529" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Контрактный двигатель M96.20 для Porsche Boxster 986. Оригинальный пробег 102593 км, проверен. Предоставляем полный пакет документов, включая ГТД и договор купли-продажи</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="121429754310469563124348061809711740477" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Двигатель M96.20 снят с Porsche Boxster 1997 года. Пробег 102593 км, аукционный лист. Возможна продажа без навесного, предоставим подробное фото и видео работы</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="151848504523064848849590963747306972669" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Оригинальный двигатель M96.20 от Porsche Boxster 1997. Пробег 102593 км, проверен на работоспособность. В комплекте документы для постановки на учет</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="284122682837482970511633162226321209385" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <price>215999</price>
+        <oldprice>237598</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_573.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_649.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_650.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0007/65/0007_65_572.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 1997 986 M96.20</model>
+        <description>Контрактный двигатель M96.20 для Porsche Boxster 986. Пробег 102593 км, аукционный лист. Возможна проверка эндоскопом, предоставим видео работы ДВС</description>
+        <sales_notes>Пробег 102593 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.20</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">98610092000</param>
+      </offer>
+      <offer id="106997424820358403557638368059905278417" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Контрактный двигатель M96.23 для Porsche Boxster 2004, кузов 986. Оригинальный пробег 102593 км. Проверен на работоспособность. В комплекте с навесным оборудованием</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="205274401426452810388768327325240861208" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Двигатель M96.23 от Porsche Boxster 2004 года. Пробег 102593 км. Проверен, работает исправно. Возможна продажа без навесного оборудования. Есть аукционный лист</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="119364153576436566067727035263159747682" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Контрактный ДВС M96.23 для Porsche Boxster 986, 2004 г.в. Оригинальный пробег 102593 км. Проверен эндоскопом по запросу. В наличии на складе в Москве. Полный пакет</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="205729621370879039125388775542592517038" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Двигатель в сборе M96.23 для Porsche Boxster 2004. Пробег 102593 км. Работоспособность подтверждена. Возможна проверка эндоскопом. Предоставляем подробные фото и видео</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="322029602078073105920946614615898052866" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Оригинальный контрактный двигатель M96.23 для Porsche Boxster 986, 2004 год. Пробег 102593 км. Снят с автомобиля, привезённого из Японии. Есть аукционный лист. Цена указана</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="171104704334792020345188801689127142566" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_828.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_829.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_830.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/11/0010_11_831.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2004 986 M96.23</model>
+        <description>Двигатель M96.23 для Porsche Boxster 2004, кузов 986. Оригинальный пробег 102593 км. Проверен на работоспособность. В наличии на складе в Москве. Предоставляем полный пакет</description>
+        <sales_notes>Оригинальный пробег 102593 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.23</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">98610092304</param>
+        <param name="Пробег">102593 км</param>
+      </offer>
+      <offer id="187164266756713394090339939060219812952" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Контрактный двигатель M96.22 для Porsche Boxster 2001. Оригинальный пробег 110816 км. Проверен на работоспособность. Есть аукционный лист. Цена за двигатель в сборе</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="242059130701862525471235373687069183542" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Двигатель M96.22 с пробегом 110816 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="118068387046527386468316843236468449268" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Оригинальный двигатель Porsche Boxster 2001. Проверен эндоскопом по запросу. Полный пакет документов: ГТД, договор купли-продажи</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="222248343206385153414670835715259909102" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Контрактный двигатель M96.22 для Porsche Boxster 986. Пробег 110816 км. Аукционный лист подтверждает привоз из Японии</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="325143890103078201084135104238678266675" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Двигатель в сборе M96.22. Возможна продажа без навесного. Предоставим видео работы ДВС. Документы для постановки на учёт</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="13411410806227445659727258081563328198" available="true" type="vendor.model">
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <price>244999</price>
+        <oldprice>269498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_788.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_789.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_790.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_791.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Boxster 2001 986 M96.22</model>
+        <description>Двигатель Porsche Boxster 2001 986 M96.22. Оригинальный пробег 110816 км. Проверен. Есть аукционный лист. Цена за двигатель в сборе</description>
+        <sales_notes>Пробег 110816 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">986</param>
+        <param name="Двигатель">M96.22</param>
+        <param name="Год">2001</param>
+        <param name="Номер по производителю">98610092205</param>
+      </offer>
+      <offer id="205333943817069884696510303322274811890" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 2010 970 M46.20 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Контрактный двигатель M46.20 3.6 для Porsche Panamera 970, 2010 год. Оригинальный пробег 98 300 км. Проверен на работоспособность. Есть аукционный лист из Японии. Цена</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="241451097056366075132941312289761854641" available="true" type="vendor.model">
+        <name>Двигатель Panamera 2010 970 M46.20 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Двигатель M46.20 3.6 для Porsche Panamera 970, 2010 год. Пробег 98 300 км. Проверен, есть аукционный лист. Цена за двигатель в сборе. Возможна продажа без навесного</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="124308748182732954897025435890768998301" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 970 M46.20 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Контрактный двигатель M46.20 3.6 для Porsche Panamera 970, 2010. Пробег 98 300 км. Работоспособность проверена. Аукционный лист из Японии. Цена за двигатель в сборе. Возможна</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="153750703440843162675090779572907255572" available="true" type="vendor.model">
+        <name>Двигатель Panamera 2010 970 M46.20 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Двигатель M46.20 3.6 для Porsche Panamera 970, 2010. Пробег 98 300 км. Проверен. Аукционный лист. Цена за двигатель в сборе. Возможна продажа без навесного. Фото и видео</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="26434429897946428834505282232892967811" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 2010 970 M46.20 по низкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Контрактный двигатель M46.20 3.6 для Porsche Panamera 970, 2010. Пробег 98 300 км. Проверен на работоспособность. Аукционный лист. Цена за двигатель в сборе. Возможна продажа</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="18821113847413315392797448888795724516" available="true" type="vendor.model">
+        <name>Двигатель Panamera 2010 970 M46.20 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <price>314999</price>
+        <oldprice>346498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_355.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_356.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_357.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 2010</model>
+        <description>Двигатель M46.20 3.6 для Porsche Panamera 970, 2010. Пробег 98 300 км. Проверен. Аукционный лист. Цена за двигатель в сборе. Возможна продажа без навесного. Фото и видео</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M46.20</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">94610092001</param>
+        <param name="Пробег">98 300 км</param>
+      </offer>
+      <offer id="318741660655157378935931546041600060582" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Оригинальный контрактный двигатель CNCC для Porsche Macan 2016 года. Пробег 37 559 км, проверен на работоспособность. В комплекте с навесным оборудованием. Предоставляем</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="303957443988242743819557259453036508092" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Контрактный двигатель Porsche Macan 95B с пробегом 37 559 км. Двигатель CNCC, проверен, возможна продажа без навесного. Есть аукционный лист, подтверждающий привоз из Японии</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="83102784693210992294895046925645157127" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Двигатель в сборе для Porsche Macan 2016 (95B, CNCC). Оригинальный пробег 37 559 км. Проверен, предоставим фото и видео работы. Возможна проверка эндоскопом по запросу</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="293508369066597020964445778357641802773" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Контрактный двигатель Porsche Macan 2016 года. Номер 06L100010AF. Пробег 37 559 км. В наличии на складе в Москве. Полный пакет документов для постановки на учёт</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="317880287772567931516048655223211097426" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Двигатель CNCC для Porsche Macan 95B. Снят с автомобиля 2016 года. Пробег 37 559 км. Проверен на работоспособность. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="339450061306438305735674031806578390436" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan 2016 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <price>349999</price>
+        <oldprice>384998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_652.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_653.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_654.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_655.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan 2016</model>
+        <description>Оригинальный двигатель Porsche Macan 2016 (95B, CNCC). Пробег 37 559 км. Есть аукционный лист. Предоставляем копию ГТД и договор купли-продажи. Цена за двигатель в сборе</description>
+        <sales_notes>Пробег 37 559 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">CNCC</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">06L100010AF</param>
+      </offer>
+      <offer id="326949315152889287437655821870728028354" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Оригинальный контрактный двигатель M4840 M48.40 с пробегом 100 251 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна продажа без навесного</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="300686675729000390188678415549671809042" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Двигатель в сборе как на фото. Предоставляем аукционный лист, подтверждающий привоз автомобиля из Японии. Полный пакет документов</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="143289688535331691585587932766160086997" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Контрактный двигатель с пробегом 100 251 км. Возможна проверка эндоскопом по запросу. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="34620360964990891107320424590403790893" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Оригинальный двигатель M4840 M48.40. В наличии на складе в Москве. Документы для постановки на учёт: копия ГТД и договор купли-продажи</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="91820969535872256681568462117799452883" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Двигатель от Porsche Panamera 4S 2011 года. Номер по производителю 94810094001. Кросс-номера 948100940AX. Цена указана за двигатель в сборе</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="4789398334537874487121432280783281768" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <price>479999</price>
+        <oldprice>527998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_376.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_374.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_557.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/46/0008_46_558.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Контрактный двигатель с аукционным листом. Проверен на работоспособность. Возможна продажа без навесного оборудования. Звоните для уточнения</description>
+        <sales_notes>Пробег 100 251 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">4840</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810094001</param>
+        <param name="Кросс-номера">948100940AX</param>
+      </offer>
+      <offer id="37313784845913276513042654222771198678" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Контрактный двигатель M4870 M48.70 для Porsche Panamera 970, проверен на работоспособность, есть аукционный лист</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="239936107463651884576547231401202262043" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Двигатель в сборе, возможна продажа без навесного оборудования, предоставим подробное фото и видео работы</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="271135156077840068808422863135069119608" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Возможна проверка эндоскопом по запросу, полный пакет документов для постановки на учёт</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="112797275596097762431168192740311024107" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Оригинальный двигатель с японского аукциона, номер 94810097001, произведён VAG</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="135962287107461601353756755519847024151" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>Двигатель снят с автомобиля Porsche Panamera 4S 2011, кузов 970, пробег подтверждён</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="23424971180525095969248346329586680772" available="true" type="vendor.model">
+        <name>Двигатель Porsche Panamera 4S 2011 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <price>489999</price>
+        <oldprice>538998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_970.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_971.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_972.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/05/0009_05_973.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Panamera 4S 2011</model>
+        <description>В наличии на складе в Москве, возможен осмотр и проверка перед покупкой</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">970</param>
+        <param name="Двигатель">M4870</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">94810097001</param>
+      </offer>
+      <offer id="266656188312499810630867184439439219587" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Оригинальный контрактный двигатель DCNA с пробегом 88 038 км. Проверен на работоспособность. В комплекте полный пакет документов, включая ГТД и ДКП</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+      <offer id="303606458282325300125557607540983405292" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Двигатель в сборе, возможна продажа без навесного. Предоставим подробное фото и организуем проверку эндоскопом по запросу</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+      <offer id="292087098716503513341296859279521702638" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Снят с автомобиля Porsche Macan GTS 2017. Есть аукционный лист из Японии. Цена указана за двигатель в сборе как на фото</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+      <offer id="152277597405457071173464627043928838007" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Контрактный двигатель DCNA с подтверждённым пробегом 88 038 км. В наличии на складе в Москве. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+      <offer id="25364427554379679319843405101825233905" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Оригинальный двигатель VAG для Porsche Macan GTS. Номер производителя 94610093211. Кросс-номера: 946100932LX, 94610093060, 946100930RX</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+      <offer id="101501456067495530751774368996896070929" available="true" type="vendor.model">
+        <name>Двигатель Porsche Macan GTS 2017 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <price>549999</price>
+        <oldprice>604998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Porsche</vendor>
+        <model>Macan GTS 2017</model>
+        <description>Двигатель в сборе, проверен, с документами для постановки на учёт. Предоставим копию ГТД и договор купли-продажи</description>
+        <sales_notes>Пробег 88 038 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Porsche</custom_label_3>
+        <param name="Кузов">95B</param>
+        <param name="Двигатель">DCNA</param>
+        <param name="Год">2017</param>
+        <param name="Номер по производителю">94610093211</param>
+        <param name="Кросс-номера">946100932LX, 94610093060, 946100930RX</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_213253526217415533958222188241874691787">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_328141631230604552627289425619348928984">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_121745715483859177844552457889231678792">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 заказать</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_149781449702823638557724239284309107162">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 купить</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_210474132629128029831723796796255021927">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_306353363296935060401578245857555827716">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22eb/</url>
+        <name>Двигатель Porsche Cayenne 2008 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Cayenne (кузов 957, двс 5501)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_815.jpg</picture>
+      </collection>
+      <collection id="col_121734162249968850310625566019426387708">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_113630130623942969686448971728758827277">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_10800301826573935517036480342857322529">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 заказать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_121429754310469563124348061809711740477">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 купить</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_151848504523064848849590963747306972669">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_284122682837482970511633162226321209385">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e3231/</url>
+        <name>Двигатель Porsche Boxster 1997 986 M96.20 узнать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_818.jpg</picture>
+      </collection>
+      <collection id="col_106997424820358403557638368059905278417">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_205274401426452810388768327325240861208">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_119364153576436566067727035263159747682">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 заказать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_205729621370879039125388775542592517038">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 купить</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_322029602078073105920946614615898052866">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_171104704334792020345188801689127142566">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd3b1/</url>
+        <name>Двигатель Porsche Boxster 2004 986 M96.23 узнать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.23)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_858.jpg</picture>
+      </collection>
+      <collection id="col_187164266756713394090339939060219812952">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_242059130701862525471235373687069183542">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_118068387046527386468316843236468449268">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 заказать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_222248343206385153414670835715259909102">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 купить</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_325143890103078201084135104238678266675">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_13411410806227445659727258081563328198">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba62/</url>
+        <name>Двигатель Porsche Boxster 2001 986 M96.22 узнать</name>
+        <description>Контрактная Двигатель Porsche Boxster (кузов 986, двс M96.22)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_323.jpg</picture>
+      </collection>
+      <collection id="col_205333943817069884696510303322274811890">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Porsche Panamera 2010 970 M46.20 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_241451097056366075132941312289761854641">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Panamera 2010 970 M46.20 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_124308748182732954897025435890768998301">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Porsche Panamera 970 M46.20 заказать</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_153750703440843162675090779572907255572">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Panamera 2010 970 M46.20 купить</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_26434429897946428834505282232892967811">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Porsche Panamera 2010 970 M46.20 по низкой</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_18821113847413315392797448888795724516">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db844/</url>
+        <name>Двигатель Panamera 2010 970 M46.20 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Panamera (кузов 970, двс M46.20)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/81/0010_81_712.jpg</picture>
+      </collection>
+      <collection id="col_318741660655157378935931546041600060582">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_303957443988242743819557259453036508092">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_83102784693210992294895046925645157127">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 заказать</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_293508369066597020964445778357641802773">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 купить</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_317880287772567931516048655223211097426">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_339450061306438305735674031806578390436">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba54/</url>
+        <name>Двигатель Porsche Macan 2016 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Macan (кузов 95B, двс CNCC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_336.jpg</picture>
+      </collection>
+      <collection id="col_326949315152889287437655821870728028354">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_300686675729000390188678415549671809042">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_143289688535331691585587932766160086997">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 заказать</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_34620360964990891107320424590403790893">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 купить</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_91820969535872256681568462117799452883">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_4789398334537874487121432280783281768">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14ce/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс 4840)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_415.jpg</picture>
+      </collection>
+      <collection id="col_37313784845913276513042654222771198678">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_239936107463651884576547231401202262043">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_271135156077840068808422863135069119608">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 заказать</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_112797275596097762431168192740311024107">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 купить</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_135962287107461601353756755519847024151">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_23424971180525095969248346329586680772">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce7/</url>
+        <name>Двигатель Porsche Panamera 4S 2011 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Panamera 4S (кузов 970, двс M4870)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_400.jpg</picture>
+      </collection>
+      <collection id="col_266656188312499810630867184439439219587">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 c доставкой</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+      <collection id="col_303606458282325300125557607540983405292">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 с гарантией</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+      <collection id="col_292087098716503513341296859279521702638">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 заказать</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+      <collection id="col_152277597405457071173464627043928838007">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 купить</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+      <collection id="col_25364427554379679319843405101825233905">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 по низкой цене</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+      <collection id="col_101501456067495530751774368996896070929">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dd96c/</url>
+        <name>Двигатель Porsche Macan GTS 2017 узнать стоимость</name>
+        <description>Контрактная Двигатель Porsche Macan GTS (кузов 95B, двс DCNA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/87/0010_87_108.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
